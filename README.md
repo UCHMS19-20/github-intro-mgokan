@@ -1,3 +1,3 @@
 # github-intro-mgokan
 github-intro-mgokan created by GitHub Classroom
-This game is a blatant rip of of Age of War. That is all.
+A driving style game designed to test reaction time and movement speed. Blocks will fall down the screen and the player must move left and right to avoid them. 
